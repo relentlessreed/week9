@@ -16,7 +16,8 @@ inquirer
     {
       type: "input",
       name: "fileName",
-      message: "Enter a name for the project screenshot followed by .png",
+      message:
+        "For a placeholder screenshot, type image.png otherwise place your image in the root folder and enter the screenshot name followed by.filetype",
     },
     {
       type: "input",

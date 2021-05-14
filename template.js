@@ -6,13 +6,13 @@ function getReadme(
   usage,
   license,
   contributing,
-  tests, 
+  tests,
   userName,
   email
 ) {
   const readme = `
 # ${title}  ![${license}](https://img.shields.io/badge/license-${license}-blue.svg)  
-![Screenshot](${fileName})
+![Screenshot](${fileName})  
 # Description
 ${description}
 # Table Of Contents

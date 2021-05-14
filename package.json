@@ -1,0 +1,23 @@
+{
+  "name": "week9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relentlessreed/week9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/relentlessreed/week9/issues"
+  },
+  "homepage": "https://github.com/relentlessreed/week9#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
